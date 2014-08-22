@@ -41,14 +41,11 @@ More specifically,
  * develop new statistics to improve our ability to separate signal from noise
  * ....and lots more
 
-Have you successfully installed all the code? You can check in the following ways:
-
- * What [Python](https://www.python.org) do you have? It should be version 2.6.x - 2.7.x. In your terminal, type:
-```
-$ python --version
-Python 2.7.1
-```
- * Do you have the basic packages for mathematical and scientific computing? These are [Numpy](http://www.numpy.org), [Scipy](http://www.scipy.org), and [matplotlib](http://matplotlib.org). What versions do you have? It should be Numpy >= 1.4, Scipy >= 0.7, and matplotlib >= 0.99. In your terminal, open an ipython session and check the versions:
-```
-
 ## A Toy Matched Filtering Problem
+
+There is a simple matched filtering toy code called matched_filter.py in this repository. In order to run it, you will need python, numpy, and matplotlib as well as the data and utilities in this repository. This example was adapted from Mike Boyle's MatchedFiltering code available from his github repository (https://github.com/moble).
+
+To check out this repository, do
+'''
+git clone https://github.com/scaudill/laac-data-analysis-tutorial.git
+'''
