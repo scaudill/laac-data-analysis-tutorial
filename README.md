@@ -46,6 +46,6 @@ More specifically,
 There is a simple matched filtering toy code called matched_filter.py in this repository. In order to run it, you will need python, numpy, and matplotlib as well as the data and utilities in this repository. This example was adapted from Mike Boyle's MatchedFiltering code available from his github repository (https://github.com/moble).
 
 To check out this repository, do
-'''
+```
 git clone https://github.com/scaudill/laac-data-analysis-tutorial.git
-'''
+```
