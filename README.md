@@ -1,6 +1,3 @@
-laac-data-analysis-tutorial
-===========================
-
 # LAAC data analysis tutorial
 
  * Presenters: Sarah Caudill (physarah (at) g + mail , com)
