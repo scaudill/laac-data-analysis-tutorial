@@ -43,9 +43,23 @@ More specifically,
 
 ## A Toy Matched Filtering Problem
 
-There is a simple matched filtering toy code called matched_filter.py in this repository. In order to run it, you will need python, numpy, and matplotlib as well as the data and utilities in this repository. This example was adapted from Mike Boyle's MatchedFiltering code available from his github repository (https://github.com/moble).
+There is a simple matched filtering toy code called matched_filter.py in this repository. In order to run it, you will need python, numpy, and matplotlib as well as the data and utilities in this repository. This example was adapted from Mike Boyle's MatchedFiltering code available from his github repository (https://github.com/moble/MatchedFiltering).
 
 To check out this repository, do
 ```
 git clone https://github.com/scaudill/laac-data-analysis-tutorial.git
+```
+
+The matched_filter.py code can be run by simply doing
+```
+python matched_filter.py
+```
+
+Starting on Line 10 of the code, you can change the following parameters to make different signals and templates:
+```
+# Set your favorite parameters
+SamplingFrequency = 8192.0
+DistanceInMegaparsecs = 10.0
+SignalMassInSolarMasses = 5.0
+TemplateMassInSolarMasses = 5.0
 ```
