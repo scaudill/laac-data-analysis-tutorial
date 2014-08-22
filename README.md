@@ -1,6 +1,6 @@
 # LAAC data analysis tutorial
 
- * Presenters: Sarah Caudill (physarah (at) g + mail , com)
+ * Presenters: Sarah Caudill (physarah@gmail.com), Alex Urban
 
 ## Preliminaries
 
@@ -11,31 +11,34 @@ What do data analysts do?
   * If there is no detection, we make a statement about the rate or strength of the gravitational waves.
 
 More specifically,
- * search for continuous gravitational waves from pulsars
- * place upper limits on strength of pulsars' gravitational wave emission
- * search for persistent gravitational waves from extended sources
- * search for gravitational waves associated with pulsar timing glitches
- * search for inspiral, merger, and ringdown gravitational waves associated with coalescing binary black holes
- * place upper limits on a cosmological or astrophysical stochastic background of gravitational waves
- * search for gravitational waves from coalescing compact binary neutron star systems (spinning and non-spinning)
- * place upper limits on rates of inspiral events from binary neutron stars
- * search for gravitational waves from merging intermediate mass black holes
- * place upper limits on rates of merging intermediate mass black holes
- * search for gravitational waves from perturbed intermediate mass black holes
- * search for gravitational wave bursts from cosmic string cusps
- * search for gravitational wave bursts from stellar collapses, mergers of compact binary star systems, and other unmodeled energetic phenomena
- * search for gravitational wave bursts associated with long gamma ray bursts
- * search for gravitational wave bursts associated with high energy neutrinos
- * develop methods for low latency gravitational wave detection
- * develop methods to promptly identify and localize gravitational wave events and request images of targeted sky locations
+ * We search for
+  * gravitational waves from coalescing compact binary neutron star systems (spinning and non-spinning)
+  * inspiral, merger, and ringdown gravitational waves associated with coalescing binary black holes
+  * continuous gravitational waves from pulsars
+  * gravitational wave bursts from stellar collapses, mergers of compact binary star systems, and other unmodeled energetic phenomena
+  * gravitational wave bursts associated with long gamma ray bursts
+  * gravitational wave bursts associated with high energy neutrinos
+  * persistent gravitational waves from extended sources
+  * gravitational waves associated with pulsar timing glitches
+  * gravitational waves from merging intermediate mass black holes
+  * gravitational waves from perturbed intermediate mass black holes
+  * gravitational wave bursts from cosmic string cusps
+ * We place upper limits on
+  * strength of pulsars' gravitational wave emission
+  * cosmological or astrophysical stochastic background of gravitational waves
+  * rates of inspiral events from binary neutron stars
+  * rates of merging intermediate mass black holes
+ * We develop methods
+  * for low latency gravitational wave detection
+  * to promptly identify and localize gravitational wave events and request images of targeted sky locations
+  * to estimate the background in the searches
+  * to optimize algorithms
  * model localization capabilities of advanced detector networks
  * model anticipated gravitational waveforms and test our ability to detect them
  * use Bayesian parameter estimation to determine unknown parameters of waveforms
  * utilize machine learning to classify gravitational wave candidates and detector glitches
  * collaborate with the numerical relativity community to perform studies using recent simulations
- * develop methods to estimate the background in the searches
  * develop new statistics to improve our ability to separate signal from noise
- * develop methods to optimize algorithms
  * ....and lots more
 
 Have you successfully installed all the code? You can check in the following ways:
